@@ -8,6 +8,16 @@ namespace Desafio4.Models
 {
     public class Pessoa
     {
+        public string Nome { get; set; }
+        public string Cargo { get; set; }
+
+
+        public Pessoa(string nome, string cargo)
+        {
+            Nome = nome;
+            Cargo = cargo;
+        }
+
 
     }
 }

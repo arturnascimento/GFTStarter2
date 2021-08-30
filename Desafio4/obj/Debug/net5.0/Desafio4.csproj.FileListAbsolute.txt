@@ -1,0 +1,16 @@
+C:\Users\artur\Desktop\GFTStarter\Desafio4\bin\Debug\net5.0\Desafio4.exe
+C:\Users\artur\Desktop\GFTStarter\Desafio4\bin\Debug\net5.0\Desafio4.deps.json
+C:\Users\artur\Desktop\GFTStarter\Desafio4\bin\Debug\net5.0\Desafio4.runtimeconfig.json
+C:\Users\artur\Desktop\GFTStarter\Desafio4\bin\Debug\net5.0\Desafio4.runtimeconfig.dev.json
+C:\Users\artur\Desktop\GFTStarter\Desafio4\bin\Debug\net5.0\Desafio4.dll
+C:\Users\artur\Desktop\GFTStarter\Desafio4\bin\Debug\net5.0\ref\Desafio4.dll
+C:\Users\artur\Desktop\GFTStarter\Desafio4\bin\Debug\net5.0\Desafio4.pdb
+C:\Users\artur\Desktop\GFTStarter\Desafio4\obj\Debug\net5.0\Desafio4.csproj.AssemblyReference.cache
+C:\Users\artur\Desktop\GFTStarter\Desafio4\obj\Debug\net5.0\Desafio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\Desktop\GFTStarter\Desafio4\obj\Debug\net5.0\Desafio4.AssemblyInfoInputs.cache
+C:\Users\artur\Desktop\GFTStarter\Desafio4\obj\Debug\net5.0\Desafio4.AssemblyInfo.cs
+C:\Users\artur\Desktop\GFTStarter\Desafio4\obj\Debug\net5.0\Desafio4.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\GFTStarter\Desafio4\obj\Debug\net5.0\Desafio4.dll
+C:\Users\artur\Desktop\GFTStarter\Desafio4\obj\Debug\net5.0\ref\Desafio4.dll
+C:\Users\artur\Desktop\GFTStarter\Desafio4\obj\Debug\net5.0\Desafio4.pdb
+C:\Users\artur\Desktop\GFTStarter\Desafio4\obj\Debug\net5.0\Desafio4.genruntimeconfig.cache
